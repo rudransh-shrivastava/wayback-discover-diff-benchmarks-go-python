@@ -1,0 +1,948 @@
+{
+  "url": "hello.com",
+  "year": 2023,
+  "timestamp": "2025-03-31T17:21:05.013776",
+  "summary": {
+    "captures": {
+      "total": 115,
+      "processed": 13,
+      "download_time": 14.667579412460327,
+      "feature_extraction_time": 0.0077059268951416016,
+      "simhash_calculation_time": 0.005238771438598633,
+      "total_processing_time": 0
+    },
+    "cdx_fetch_time": 12.505272626876831,
+    "redis_write_time": 0.001560211181640625,
+    "total_time": 15.042337656021118
+  },
+  "detailed_capture_timings": [
+    {
+      "timestamp": "20230113195249",
+      "download_time": 0.8588380813598633,
+      "error": true
+    },
+    {
+      "timestamp": "20230113195249",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421862.4793122,
+      "cached": false,
+      "download_time": 0.8588733673095703,
+      "total_time": 0.8588805198669434
+    },
+    {
+      "timestamp": "20230118064131",
+      "download_time": 0.859377384185791,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230118064131",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421862.480417,
+      "cached": false,
+      "download_time": 0.8593852519989014,
+      "feature_extraction_time": 0.0003554821014404297,
+      "simhash_calculation_time": 0.0012662410736083984,
+      "total_time": 0.8611843585968018
+    },
+    {
+      "timestamp": "20230128071651",
+      "download_time": 0.8608548641204834,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230204211202",
+      "download_time": 0.8607437610626221,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230205174735",
+      "download_time": 0.8609263896942139,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230128071651",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421862.481143,
+      "cached": false,
+      "download_time": 0.8608653545379639,
+      "feature_extraction_time": 0.0011930465698242188,
+      "simhash_calculation_time": 0.0006377696990966797,
+      "total_time": 0.8631036281585693
+    },
+    {
+      "timestamp": "20230204211202",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421862.4815533,
+      "cached": false,
+      "download_time": 0.860755205154419,
+      "feature_extraction_time": 0.0007309913635253906,
+      "simhash_calculation_time": 0.0005447864532470703,
+      "total_time": 0.8627622127532959
+    },
+    {
+      "timestamp": "20230205174735",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421862.4818387,
+      "cached": false,
+      "download_time": 0.8609354496002197,
+      "feature_extraction_time": 0.0007336139678955078,
+      "simhash_calculation_time": 0.0004172325134277344,
+      "total_time": 0.8625452518463135
+    },
+    {
+      "timestamp": "20230209212851",
+      "download_time": 0.8681988716125488,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230209212851",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421862.4822114,
+      "cached": false,
+      "download_time": 0.8682096004486084,
+      "feature_extraction_time": 0.000415802001953125,
+      "simhash_calculation_time": 0.0002574920654296875,
+      "total_time": 0.8690536022186279
+    },
+    {
+      "timestamp": "20230125212413",
+      "download_time": 1.3316702842712402,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230125212413",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421862.480623,
+      "cached": false,
+      "download_time": 1.331679344177246,
+      "feature_extraction_time": 0.0006527900695800781,
+      "simhash_calculation_time": 0.00032973289489746094,
+      "total_time": 1.3329129219055176
+    },
+    {
+      "timestamp": "20230302224840",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421863.8135507,
+      "cached": true,
+      "total_time": 0.00015234947204589844
+    },
+    {
+      "timestamp": "20230306140837",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.813711,
+      "cached": true,
+      "total_time": 6.508827209472656e-05
+    },
+    {
+      "timestamp": "20230307011400",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8137817,
+      "cached": true,
+      "total_time": 4.57763671875e-05
+    },
+    {
+      "timestamp": "20230311180818",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8138344,
+      "cached": true,
+      "total_time": 4.506111145019531e-05
+    },
+    {
+      "timestamp": "20230312030356",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8138864,
+      "cached": true,
+      "total_time": 4.2438507080078125e-05
+    },
+    {
+      "timestamp": "20230313010601",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.813934,
+      "cached": true,
+      "total_time": 4.076957702636719e-05
+    },
+    {
+      "timestamp": "20230313123139",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.81399,
+      "cached": true,
+      "total_time": 3.838539123535156e-05
+    },
+    {
+      "timestamp": "20230315000158",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8140328,
+      "cached": true,
+      "total_time": 3.838539123535156e-05
+    },
+    {
+      "timestamp": "20230319045313",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8140883,
+      "cached": true,
+      "total_time": 4.291534423828125e-05
+    },
+    {
+      "timestamp": "20230323165940",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8141358,
+      "cached": true,
+      "total_time": 4.029273986816406e-05
+    },
+    {
+      "timestamp": "20230326180153",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421863.8141806,
+      "cached": true,
+      "total_time": 5.316734313964844e-05
+    },
+    {
+      "timestamp": "20230327065345",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8142385,
+      "cached": true,
+      "total_time": 4.1484832763671875e-05
+    },
+    {
+      "timestamp": "20230401123821",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.814285,
+      "cached": true,
+      "total_time": 4.38690185546875e-05
+    },
+    {
+      "timestamp": "20230404105845",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421863.8143332,
+      "cached": true,
+      "total_time": 4.887580871582031e-05
+    },
+    {
+      "timestamp": "20230405093701",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8143868,
+      "cached": true,
+      "total_time": 3.9577484130859375e-05
+    },
+    {
+      "timestamp": "20230405190035",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8144307,
+      "cached": true,
+      "total_time": 3.743171691894531e-05
+    },
+    {
+      "timestamp": "20230406081330",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8144724,
+      "cached": true,
+      "total_time": 3.910064697265625e-05
+    },
+    {
+      "timestamp": "20230406101659",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8145163,
+      "cached": true,
+      "total_time": 4.124641418457031e-05
+    },
+    {
+      "timestamp": "20230410183708",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421863.8145618,
+      "cached": true,
+      "total_time": 4.172325134277344e-05
+    },
+    {
+      "timestamp": "20230410205817",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8146083,
+      "cached": true,
+      "total_time": 3.790855407714844e-05
+    },
+    {
+      "timestamp": "20230413002138",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.81465,
+      "cached": true,
+      "total_time": 3.838539123535156e-05
+    },
+    {
+      "timestamp": "20230423034030",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8146925,
+      "cached": true,
+      "total_time": 3.910064697265625e-05
+    },
+    {
+      "timestamp": "20230428072541",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421863.814736,
+      "cached": true,
+      "total_time": 3.695487976074219e-05
+    },
+    {
+      "timestamp": "20230507061506",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421863.814777,
+      "cached": true,
+      "total_time": 3.695487976074219e-05
+    },
+    {
+      "timestamp": "20230508210010",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8148181,
+      "cached": true,
+      "total_time": 3.695487976074219e-05
+    },
+    {
+      "timestamp": "20230518044308",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8148592,
+      "cached": true,
+      "total_time": 3.7670135498046875e-05
+    },
+    {
+      "timestamp": "20230521072942",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8149014,
+      "cached": true,
+      "total_time": 3.814697265625e-05
+    },
+    {
+      "timestamp": "20230530075812",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8149438,
+      "cached": true,
+      "total_time": 4.5299530029296875e-05
+    },
+    {
+      "timestamp": "20230530122818",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421863.8149931,
+      "cached": true,
+      "total_time": 3.8623809814453125e-05
+    },
+    {
+      "timestamp": "20230530232424",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.815036,
+      "cached": true,
+      "total_time": 3.719329833984375e-05
+    },
+    {
+      "timestamp": "20230602004340",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8150773,
+      "cached": true,
+      "total_time": 3.743171691894531e-05
+    },
+    {
+      "timestamp": "20230605024551",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8151188,
+      "cached": true,
+      "total_time": 4.029273986816406e-05
+    },
+    {
+      "timestamp": "20230607022016",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8151634,
+      "cached": true,
+      "total_time": 4.291534423828125e-05
+    },
+    {
+      "timestamp": "20230607154349",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8152113,
+      "cached": true,
+      "total_time": 4.458427429199219e-05
+    },
+    {
+      "timestamp": "20230616064026",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.815261,
+      "cached": true,
+      "total_time": 4.506111145019531e-05
+    },
+    {
+      "timestamp": "20230619102259",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8153102,
+      "cached": true,
+      "total_time": 4.124641418457031e-05
+    },
+    {
+      "timestamp": "20230626173322",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8153656,
+      "cached": true,
+      "total_time": 4.1961669921875e-05
+    },
+    {
+      "timestamp": "20230629120615",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8154123,
+      "cached": true,
+      "total_time": 3.886222839355469e-05
+    },
+    {
+      "timestamp": "20230702134006",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8154554,
+      "cached": true,
+      "total_time": 3.790855407714844e-05
+    },
+    {
+      "timestamp": "20230705062832",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8154979,
+      "cached": true,
+      "total_time": 3.8623809814453125e-05
+    },
+    {
+      "timestamp": "20230706021115",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8155408,
+      "cached": true,
+      "total_time": 3.814697265625e-05
+    },
+    {
+      "timestamp": "20230710150641",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8155832,
+      "cached": true,
+      "total_time": 4.363059997558594e-05
+    },
+    {
+      "timestamp": "20230714195748",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8156316,
+      "cached": true,
+      "total_time": 3.8623809814453125e-05
+    },
+    {
+      "timestamp": "20230715085907",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421863.8156743,
+      "cached": true,
+      "total_time": 3.719329833984375e-05
+    },
+    {
+      "timestamp": "20230715162205",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8157156,
+      "cached": true,
+      "total_time": 3.790855407714844e-05
+    },
+    {
+      "timestamp": "20230719172735",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8157575,
+      "cached": true,
+      "total_time": 3.695487976074219e-05
+    },
+    {
+      "timestamp": "20230806002802",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8157988,
+      "cached": true,
+      "total_time": 3.695487976074219e-05
+    },
+    {
+      "timestamp": "20230810235017",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.81584,
+      "cached": true,
+      "total_time": 3.6716461181640625e-05
+    },
+    {
+      "timestamp": "20230813103625",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421863.815881,
+      "cached": true,
+      "total_time": 3.695487976074219e-05
+    },
+    {
+      "timestamp": "20230814155153",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421863.815922,
+      "cached": true,
+      "total_time": 3.6716461181640625e-05
+    },
+    {
+      "timestamp": "20230814200905",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8159628,
+      "cached": true,
+      "total_time": 3.695487976074219e-05
+    },
+    {
+      "timestamp": "20230817052246",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8160045,
+      "cached": true,
+      "total_time": 3.695487976074219e-05
+    },
+    {
+      "timestamp": "20230822084908",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8160458,
+      "cached": true,
+      "total_time": 3.719329833984375e-05
+    },
+    {
+      "timestamp": "20230822181753",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8160868,
+      "cached": true,
+      "total_time": 3.743171691894531e-05
+    },
+    {
+      "timestamp": "20230826025022",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8161285,
+      "cached": true,
+      "total_time": 3.814697265625e-05
+    },
+    {
+      "timestamp": "20230829140531",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8161707,
+      "cached": true,
+      "total_time": 3.719329833984375e-05
+    },
+    {
+      "timestamp": "20230901143247",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8162117,
+      "cached": true,
+      "total_time": 4.291534423828125e-05
+    },
+    {
+      "timestamp": "20230905071014",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.816259,
+      "cached": true,
+      "total_time": 3.743171691894531e-05
+    },
+    {
+      "timestamp": "20230907061037",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8163013,
+      "cached": true,
+      "total_time": 3.790855407714844e-05
+    },
+    {
+      "timestamp": "20230908142407",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8163435,
+      "cached": true,
+      "total_time": 4.482269287109375e-05
+    },
+    {
+      "timestamp": "20230910175306",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8163927,
+      "cached": true,
+      "total_time": 4.1961669921875e-05
+    },
+    {
+      "timestamp": "20230911012603",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8164392,
+      "cached": true,
+      "total_time": 3.886222839355469e-05
+    },
+    {
+      "timestamp": "20230925152238",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.816482,
+      "cached": true,
+      "total_time": 3.814697265625e-05
+    },
+    {
+      "timestamp": "20230927050136",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8165247,
+      "cached": true,
+      "total_time": 3.814697265625e-05
+    },
+    {
+      "timestamp": "20230927201608",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421863.816567,
+      "cached": true,
+      "total_time": 3.719329833984375e-05
+    },
+    {
+      "timestamp": "20231006170739",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.816608,
+      "cached": true,
+      "total_time": 3.743171691894531e-05
+    },
+    {
+      "timestamp": "20231009223318",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8166494,
+      "cached": true,
+      "total_time": 3.62396240234375e-05
+    },
+    {
+      "timestamp": "20231019164956",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8166897,
+      "cached": true,
+      "total_time": 3.647804260253906e-05
+    },
+    {
+      "timestamp": "20231023021654",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8167307,
+      "cached": true,
+      "total_time": 3.6716461181640625e-05
+    },
+    {
+      "timestamp": "20231025134451",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8167715,
+      "cached": true,
+      "total_time": 3.6716461181640625e-05
+    },
+    {
+      "timestamp": "20231030092411",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8168132,
+      "cached": true,
+      "total_time": 3.790855407714844e-05
+    },
+    {
+      "timestamp": "20231104023932",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8168557,
+      "cached": true,
+      "total_time": 3.647804260253906e-05
+    },
+    {
+      "timestamp": "20231104131921",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8168962,
+      "cached": true,
+      "total_time": 3.6716461181640625e-05
+    },
+    {
+      "timestamp": "20231108040417",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.816937,
+      "cached": true,
+      "total_time": 3.600120544433594e-05
+    },
+    {
+      "timestamp": "20231109143703",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8169773,
+      "cached": true,
+      "total_time": 3.62396240234375e-05
+    },
+    {
+      "timestamp": "20231112110833",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8170176,
+      "cached": true,
+      "total_time": 3.695487976074219e-05
+    },
+    {
+      "timestamp": "20231113015101",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8170586,
+      "cached": true,
+      "total_time": 3.62396240234375e-05
+    },
+    {
+      "timestamp": "20231114043018",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.817099,
+      "cached": true,
+      "total_time": 3.647804260253906e-05
+    },
+    {
+      "timestamp": "20231117021556",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "start_time": 1743421863.8171403,
+      "cached": true,
+      "total_time": 3.6716461181640625e-05
+    },
+    {
+      "timestamp": "20231120000019",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8171816,
+      "cached": true,
+      "total_time": 3.910064697265625e-05
+    },
+    {
+      "timestamp": "20231121092845",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.817225,
+      "cached": true,
+      "total_time": 3.790855407714844e-05
+    },
+    {
+      "timestamp": "20231126220253",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.817267,
+      "cached": true,
+      "total_time": 3.695487976074219e-05
+    },
+    {
+      "timestamp": "20231128102523",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.817308,
+      "cached": true,
+      "total_time": 3.6716461181640625e-05
+    },
+    {
+      "timestamp": "20231128220921",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8173487,
+      "cached": true,
+      "total_time": 4.3392181396484375e-05
+    },
+    {
+      "timestamp": "20231130213144",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8173969,
+      "cached": true,
+      "total_time": 3.933906555175781e-05
+    },
+    {
+      "timestamp": "20231202002240",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8174403,
+      "cached": true,
+      "total_time": 3.719329833984375e-05
+    },
+    {
+      "timestamp": "20231205041012",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8174818,
+      "cached": true,
+      "total_time": 3.743171691894531e-05
+    },
+    {
+      "timestamp": "20231205111741",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8175232,
+      "cached": true,
+      "total_time": 3.719329833984375e-05
+    },
+    {
+      "timestamp": "20231205203055",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8175647,
+      "cached": true,
+      "total_time": 4.1961669921875e-05
+    },
+    {
+      "timestamp": "20231206021718",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8176107,
+      "cached": true,
+      "total_time": 4.1484832763671875e-05
+    },
+    {
+      "timestamp": "20231206180346",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8176568,
+      "cached": true,
+      "total_time": 3.910064697265625e-05
+    },
+    {
+      "timestamp": "20231208174801",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8177001,
+      "cached": true,
+      "total_time": 3.814697265625e-05
+    },
+    {
+      "timestamp": "20231212172339",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8177426,
+      "cached": true,
+      "total_time": 3.743171691894531e-05
+    },
+    {
+      "timestamp": "20231215055322",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8177848,
+      "cached": true,
+      "total_time": 3.910064697265625e-05
+    },
+    {
+      "timestamp": "20231215102231",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "start_time": 1743421863.8178287,
+      "cached": true,
+      "total_time": 0.0001392364501953125
+    },
+    {
+      "timestamp": "20231217221310",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8179753,
+      "cached": true,
+      "total_time": 5.3882598876953125e-05
+    },
+    {
+      "timestamp": "20231221213022",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.818033,
+      "cached": true,
+      "total_time": 3.8623809814453125e-05
+    },
+    {
+      "timestamp": "20231223132516",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.818076,
+      "cached": true,
+      "total_time": 3.790855407714844e-05
+    },
+    {
+      "timestamp": "20231223203019",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8181176,
+      "cached": true,
+      "total_time": 3.743171691894531e-05
+    },
+    {
+      "timestamp": "20231226064438",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.818159,
+      "cached": true,
+      "total_time": 3.695487976074219e-05
+    },
+    {
+      "timestamp": "20231229005754",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.8182003,
+      "cached": true,
+      "total_time": 3.743171691894531e-05
+    },
+    {
+      "timestamp": "20230117121650",
+      "download_time": 1.614323377609253,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230117121650",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421862.4795702,
+      "cached": false,
+      "download_time": 1.6143383979797363,
+      "feature_extraction_time": 0.0007455348968505859,
+      "simhash_calculation_time": 0.00026607513427734375,
+      "total_time": 1.6155328750610352
+    },
+    {
+      "timestamp": "20230218170422",
+      "download_time": 0.753960132598877,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230218170422",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.3416195,
+      "cached": false,
+      "download_time": 0.7539691925048828,
+      "feature_extraction_time": 0.0003452301025390625,
+      "simhash_calculation_time": 0.0002224445343017578,
+      "total_time": 0.7554628849029541
+    },
+    {
+      "timestamp": "20230226154146",
+      "download_time": 1.0306870937347412,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230226074526",
+      "download_time": 1.0310547351837158,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230226154146",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.3443284,
+      "cached": false,
+      "download_time": 1.0306963920593262,
+      "feature_extraction_time": 0.0006000995635986328,
+      "simhash_calculation_time": 0.0003409385681152344,
+      "total_time": 1.031766653060913
+    },
+    {
+      "timestamp": "20230226074526",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.344261,
+      "cached": false,
+      "download_time": 1.0310604572296143,
+      "feature_extraction_time": 0.0007081031799316406,
+      "simhash_calculation_time": 0.0001380443572998047,
+      "total_time": 1.0320594310760498
+    },
+    {
+      "timestamp": "20230227202929",
+      "download_time": 1.0335445404052734,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230227202929",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.3443937,
+      "cached": false,
+      "download_time": 1.0335559844970703,
+      "feature_extraction_time": 0.0003879070281982422,
+      "simhash_calculation_time": 0.0003294944763183594,
+      "total_time": 1.0344574451446533
+    },
+    {
+      "timestamp": "20230302172127",
+      "download_time": 1.034020185470581,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230302172127",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.35128,
+      "cached": false,
+      "download_time": 1.0340304374694824,
+      "feature_extraction_time": 0.000396728515625,
+      "simhash_calculation_time": 0.0002396106719970703,
+      "total_time": 1.0348246097564697
+    },
+    {
+      "timestamp": "20230212122915",
+      "download_time": 1.669379711151123,
+      "size": 1814,
+      "content_type": "text/html"
+    },
+    {
+      "timestamp": "20230212122915",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "start_time": 1743421863.3382158,
+      "cached": false,
+      "download_time": 1.6693902015686035,
+      "feature_extraction_time": 0.0004405975341796875,
+      "simhash_calculation_time": 0.00024890899658203125,
+      "total_time": 1.6702439785003662
+    }
+  ]
+}

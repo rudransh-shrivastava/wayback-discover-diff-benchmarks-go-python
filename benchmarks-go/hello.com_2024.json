@@ -1,0 +1,1022 @@
+{
+  "url": "hello.com",
+  "year": "2024",
+  "timestamp": "2025-03-31T18:10:47+05:30",
+  "summary": {
+    "captures": {
+      "total": 133,
+      "processed": 103,
+      "download_time": 298.8692103849999,
+      "successful_fetches": 103,
+      "failed_fetches": 30
+    },
+    "cdx_fetch_time": 19.626258292,
+    "total_time": 30.365075692
+  },
+  "detailed_capture_timings": [
+    {
+      "timestamp": "20240112000924",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 1.474485187,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240114001253",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.166924819,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240101081709",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "download_time": 2.178670783,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240123021202",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.326514448,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240121213608",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.39219572,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240111201146",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.462392295,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240110180919",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 2.6207768959999997,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240118122535",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.752073205,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240112101251",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.80850447,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240117003127",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.845983818,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240120001453",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.355535702,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240219000712",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "download_time": 2.038637605,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240115004425",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.546354799,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240201205618",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.556698008,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240122230537",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.638511342,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240112211113",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.668427871,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240123102508",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.070582268,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240123210307",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.788282153,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240116211405",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.795147569,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240120211920",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240121012710",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240116005952",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240214172648",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240114110606",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240113000211",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240218224610",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240115200420",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240121101116",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240113201207",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240210192607",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240117100822",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240119004410",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240117213127",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240128102306",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240206211005",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240118200259",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240119102651",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240126192637",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240116100550",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240127172105",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 4.063756421,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240208003843",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 4.168393932,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240115111419",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 4.296971433,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240118004349",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 4.46970393,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240110233251",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 4.61803129,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240308113606",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 2.27551639,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240330144048",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.010293168,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240113100123",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 4.866577224,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240225091225",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 2.709131148,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240324122540",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "download_time": 2.167253613,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240419112540",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.359335553,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240128001414",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "download_time": 5.154660415,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240410013309",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.685877317,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240407121645",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 1.9058504699999999,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240416232718",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.645207992,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240519072544",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 1.492996601,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240512044331",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.5164212350000001,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240114210033",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 5.421985466,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240406204611",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.744455658,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240417042012",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.082150533,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240511062758",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.877511336,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240302095108",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.464208378,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240412055034",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.269132263,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240711224403",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 1.670776009,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240717215915",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.4003935379999999,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240229174153",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 3.709716787,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240119210127",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 6.109293299,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240712030101",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "download_time": 1.818182615,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240524025106",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "download_time": 2.289835748,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240313144653",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.980841578,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240703185650",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.416147562,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240430152536",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.606923207,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240518200747",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.638018013,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240509021926",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.656596605,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240430042551",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.778047144,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240728104431",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.828508297,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240509171144",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.852768787,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240111184936",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 6.743565316,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240421061437",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.969672239,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240731005927",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 1.88451481,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240718050848",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 2.152782457,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240807083418",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.782905611,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240914175728",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.44032326,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240320194406",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 4.470047177,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241004085013",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "download_time": 1.258646035,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240822084054",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 1.909593493,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240719010854",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.485380585,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241010204602",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.335822888,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240904144232",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 1.914564218,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240502054816",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.436818504,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240527143536",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240526154323",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240617122359",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240623215327",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240528160656",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240618174752",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240525163749",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240607123308",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240605040021",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20240617202551",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 0,
+      "error": "Failed after 2 retries"
+    },
+    {
+      "timestamp": "20241011143911",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "download_time": 1.331434296,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241012163107",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.332900608,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241113012718",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.376911128,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240725061652",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.73724416,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240812171715",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 2.433591662,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241114042403",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 1.163800108,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240928032846",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 1.8981703570000001,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241008203022",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 1.8795938049999998,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240915194813",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 2.220425932,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240922215427",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.083719603,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241125023438",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 1.363092926,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241213193017",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "download_time": 1.282541903,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240802132536",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.138263723,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240922180831",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.337704546,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240831061752",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.077409189,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241212214850",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 1.625572998,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240930163441",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.957060457,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241128071617",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 2.251159029,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240120192045",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 8.824839658,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241202054742",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.294385614,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241202112454",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.218962388,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241217193751",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 2.362479687,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241114122528",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.675797356,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240911000903",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 4.011211919,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240823185936",
+      "digest": "UQL6PVPPGCAFERAQYG64S6YUOIWZDSCI",
+      "download_time": 4.214510612,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241207210155",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 2.880795141,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240523214120",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 5.750567254,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241224035552",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.785024515,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241204024226",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.933519227,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241126203412",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.165881288,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241231035533",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 2.647168406,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240414233802",
+      "digest": "FDWKGWT6X3RPKRVTL77SDX7F5FUSHI3P",
+      "download_time": 6.883505729,
+      "size": 872,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20241222040527",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 3.700435996,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    },
+    {
+      "timestamp": "20240122092836",
+      "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+      "download_time": 10.736722659,
+      "size": 878,
+      "content_type": "text/html",
+      "status_code": 200
+    }
+  ]
+}
