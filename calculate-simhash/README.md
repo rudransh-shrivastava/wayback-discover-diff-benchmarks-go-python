@@ -3,13 +3,12 @@
 The python module was copied over from the original [wayback-discover-diff](https://github.com/internetarchive/wayback-discover-diff) repository.
 The Golang code was poorly written by AI just for the sake of comparison with the Python implementation.
 
-# Key Findings
 | Benchmark Run | Total Files Processed | Total Benchmark Time (s) | Average File Processing Time (s) |
 |--------------|----------------------|-------------------------|--------------------------------|
 | Golang       | 2                    | 0.0057                  | 0.0028                         |
 | Python       | 2                    | 0.0348                  | 0.0173                         |
 
-Golang was 6.1 times faster than Python with average file processing time also being 6.1 times faster.
+Golang was `6.1 times` faster than Python with average file processing time also being `6.1 times` faster.
 
 # Raw Golang Results
 
