@@ -1,7 +1,17 @@
 # Benchmark Results
 
-# TODO: Add more details about the benchmarking process
-# Golang Results
+The python module was copied over from the original [wayback-discover-diff](https://github.com/internetarchive/wayback-discover-diff) repository.
+The Golang code was poorly written by AI just for the sake of comparison with the Python implementation.
+
+# Key Findings
+| Benchmark Run | Total Files Processed | Total Benchmark Time (s) | Average File Processing Time (s) |
+|--------------|----------------------|-------------------------|--------------------------------|
+| Golang       | 2                    | 0.0057                  | 0.0028                         |
+| Python       | 2                    | 0.0348                  | 0.0173                         |
+
+Golang was 6.1 times faster than Python with average file processing time also being 6.1 times faster.
+
+# Raw Golang Results
 
 ```bash
 Starting HTML SimHash benchmark...
@@ -37,7 +47,7 @@ Unique hashes count: 2
 First few hashes: [PjbrqB7SOog= Pjbr9h5Tcog=]
 ```
 
-# Python Results
+# Raw Python Results
 ```bash
 === HTML SimHash Benchmark Results ===
 Total files processed: 2
